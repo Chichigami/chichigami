@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hello hello, I'm Gary Feng
 
-<!--
-**Chichigami/chichigami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I have a B.S. in Statistics from University at Buffalo (UB) and currently looking for a role in anything data related and/or software related.
+  - Minitab + R for data analysis
+- Currently learning everything I can as a back-end developer from [Boot.Dev](https://www.boot.dev/)
+  - Certificate in Python, JS, SQL, Git, OOP, FP, Shell/Terminal. Soon to finish Dockor, K8s, Go, Algo, Data Structs. Here's my profile (almost archmage 😎) https://www.boot.dev/u/chichigami
+- I'm currently working on a Wikipedia Game Chrome extension, and improving my Wordle made in Scala.
+- I also have clinical experience in Opthamology, and can answer a lot of questions related to cataracts, glaucoma, and retina.
+  - Not medical advice disclaimer :satisfied:
+- I enjoy playing competitive games and have reached 97th percentile in most.
+  -  Definitely not in Chess
