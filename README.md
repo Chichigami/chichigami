@@ -7,5 +7,4 @@
 - I'm currently working on a Wikipedia Game Chrome extension, and improving my Wordle made in Scala.
 - I also have clinical experience in Opthamology, and can answer a lot of questions related to cataracts, glaucoma, and retina.
   - Not medical advice disclaimer :satisfied:
-- I enjoy playing and reaching 97th percentile in competitive games.
-  -  Definitely not in Chess
+
