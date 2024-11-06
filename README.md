@@ -5,7 +5,7 @@
 - Currently learning everything I can as a back-end developer from Boot.Dev. My [profile](https://www.boot.dev/)
   - Certificate in Go, Algos, Python, JS, SQL, Git, OOP, FP, Shell/Terminal.
   - Using VSCode like everyone else.
-- I'm currently working on a Wikipedia Game Chrome extension, and improving my Wordle made in Scala.
+- I'm currently working on a RSS aggregator
 - I also have clinical experience in Opthamology, and can answer a lot of questions related to cataracts, glaucoma, and retina.
   - Not medical advice disclaimer :satisfied:
 
